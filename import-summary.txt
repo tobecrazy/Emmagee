@@ -1,0 +1,167 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .github/
+* .github/ISSUE_TEMPLATE.md
+* .gitignore
+* .idea/
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/workspace.xml
+* AUTHORS
+* LICENSE
+* README.md
+* VERSION
+* app/
+* app/build.gradle
+* app/libs/
+* app/libs/activation.jar
+* app/libs/additionnal.jar
+* app/libs/commons-io-2.5.jar
+* app/libs/mail.jar
+* app/src/
+* app/src/main/
+* app/src/main/AndroidManifest.xml
+* app/src/main/java/
+* app/src/main/java/com/
+* app/src/main/java/com/netease/
+* app/src/main/java/com/netease/qa/
+* app/src/main/java/com/netease/qa/emmagee/
+* app/src/main/java/com/netease/qa/emmagee/activity/
+* app/src/main/java/com/netease/qa/emmagee/activity/AboutActivity.java
+* app/src/main/java/com/netease/qa/emmagee/activity/MailSettingsActivity.java
+* app/src/main/java/com/netease/qa/emmagee/activity/MainPageActivity.java
+* app/src/main/java/com/netease/qa/emmagee/activity/SettingsActivity.java
+* app/src/main/java/com/netease/qa/emmagee/activity/TestListActivity.java
+* app/src/main/java/com/netease/qa/emmagee/activity/TestReportActivity.java
+* app/src/main/java/com/netease/qa/emmagee/service/
+* app/src/main/java/com/netease/qa/emmagee/service/EmmageeService.java
+* app/src/main/java/com/netease/qa/emmagee/utils/
+* app/src/main/java/com/netease/qa/emmagee/utils/Constants.java
+* app/src/main/java/com/netease/qa/emmagee/utils/CpuInfo.java
+* app/src/main/java/com/netease/qa/emmagee/utils/CurrentInfo.java
+* app/src/main/java/com/netease/qa/emmagee/utils/CustomizedAuthenticator.java
+* app/src/main/java/com/netease/qa/emmagee/utils/EncryptData.java
+* app/src/main/java/com/netease/qa/emmagee/utils/FpsInfo.java
+* app/src/main/java/com/netease/qa/emmagee/utils/MailSender.java
+* app/src/main/java/com/netease/qa/emmagee/utils/MemoryInfo.java
+* app/src/main/java/com/netease/qa/emmagee/utils/MyApplication.java
+* app/src/main/java/com/netease/qa/emmagee/utils/ProcessInfo.java
+* app/src/main/java/com/netease/qa/emmagee/utils/Programe.java
+* app/src/main/java/com/netease/qa/emmagee/utils/Settings.java
+* app/src/main/java/com/netease/qa/emmagee/utils/TrafficInfo.java
+* app/src/main/java/com/netease/qa/emmagee/utils/WakeLockHelper.java
+* app/src/main/res/
+* app/src/main/res/drawable-hdpi/
+* app/src/main/res/drawable-hdpi/actionbar_bg.9.png
+* app/src/main/res/drawable-hdpi/bottom_bg.png
+* app/src/main/res/drawable-hdpi/btn_back.png
+* app/src/main/res/drawable-hdpi/btn_save.png
+* app/src/main/res/drawable-hdpi/btn_test.png
+* app/src/main/res/drawable-hdpi/btn_test_press.png
+* app/src/main/res/drawable-hdpi/button_bg.png
+* app/src/main/res/drawable-hdpi/checked_icon.png
+* app/src/main/res/drawable-hdpi/close.png
+* app/src/main/res/drawable-hdpi/ic_launcher.png
+* app/src/main/res/drawable-hdpi/icon.png
+* app/src/main/res/drawable-hdpi/left_arrow.png
+* app/src/main/res/drawable-hdpi/meminfo.png
+* app/src/main/res/drawable-hdpi/refresh.png
+* app/src/main/res/drawable-hdpi/right_arrow.png
+* app/src/main/res/drawable-hdpi/seekbar_thumb_normal.png
+* app/src/main/res/drawable-hdpi/seekbar_thumb_pressed.png
+* app/src/main/res/drawable-hdpi/settings.png
+* app/src/main/res/drawable-hdpi/settings_pressed.png
+* app/src/main/res/drawable-hdpi/unchecked_icon.png
+* app/src/main/res/drawable-ldpi/
+* app/src/main/res/drawable-ldpi/ic_launcher.png
+* app/src/main/res/drawable-ldpi/icon.png
+* app/src/main/res/drawable-ldpi/meminfo.png
+* app/src/main/res/drawable-mdpi/
+* app/src/main/res/drawable-mdpi/button_bg.png
+* app/src/main/res/drawable-mdpi/ic_launcher.png
+* app/src/main/res/drawable-mdpi/icon.png
+* app/src/main/res/drawable-mdpi/meminfo.png
+* app/src/main/res/drawable/
+* app/src/main/res/drawable/custom_checkbox.xml
+* app/src/main/res/drawable/custom_seekbar.xml
+* app/src/main/res/drawable/float_button.xml
+* app/src/main/res/drawable/seekbar_thumb.xml
+* app/src/main/res/drawable/settings_button.xml
+* app/src/main/res/drawable/table_border.xml
+* app/src/main/res/drawable/test_button.xml
+* app/src/main/res/layout/
+* app/src/main/res/layout/about.xml
+* app/src/main/res/layout/floating.xml
+* app/src/main/res/layout/list_item.xml
+* app/src/main/res/layout/mail_settings.xml
+* app/src/main/res/layout/mainpage.xml
+* app/src/main/res/layout/navigation_bar.xml
+* app/src/main/res/layout/settings.xml
+* app/src/main/res/layout/table_row.xml
+* app/src/main/res/layout/test_list.xml
+* app/src/main/res/layout/test_list_item.xml
+* app/src/main/res/layout/test_report.xml
+* app/src/main/res/values-zh-rCN/
+* app/src/main/res/values-zh-rCN/strings.xml
+* app/src/main/res/values/
+* app/src/main/res/values/colors.xml
+* app/src/main/res/values/dimens.xml
+* app/src/main/res/values/strings.xml
+* app/src/main/res/values/styles.xml
+* build.gradle
+* changelog.md
+* emmagee.xml
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* libs/activation.jar => app/libs/activation.jar
+* libs/additionnal.jar => app/libs/additionnal.jar
+* libs/commons-io-2.5.jar => app/libs/commons-io-2.5.jar
+* libs/mail.jar => app/libs/mail.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

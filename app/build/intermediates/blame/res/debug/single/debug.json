@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_floating.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/floating.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_float_button.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/float_button.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_test.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/btn_test.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_unchecked_icon.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/unchecked_icon.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_refresh.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/refresh.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_bottom_bg.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/bottom_bg.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_right_arrow.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/right_arrow.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_navigation_bar.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/navigation_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_mainpage.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/mainpage.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_test_press.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/btn_test_press.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_thumb_pressed.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_settings.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi_button_bg.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-mdpi/button_bg.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_custom_checkbox.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/custom_checkbox.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_seekbar_thumb.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_settings.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_table_row.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/table_row.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_back.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/btn_back.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_test_report.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/test_report.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-ldpi_meminfo.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-ldpi/meminfo.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_thumb_normal.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/seekbar_thumb_normal.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_settings_pressed.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/settings_pressed.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_mail_settings.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/mail_settings.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_left_arrow.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/left_arrow.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_test_button.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/test_button.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_save.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/btn_save.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_test_list.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/test_list.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_button_bg.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/button_bg.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_meminfo.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/meminfo.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_test_list_item.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/test_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_actionbar_bg.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/actionbar_bg.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_close.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_about.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_checked_icon.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/checked_icon.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_table_border.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/table_border.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi_meminfo.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-mdpi/meminfo.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_custom_seekbar.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/custom_seekbar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_settings_button.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/settings_button.xml"
+    }
+]
