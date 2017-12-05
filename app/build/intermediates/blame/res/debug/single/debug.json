@@ -4,14 +4,6 @@
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/floating.xml"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_float_button.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/float_button.xml"
-    },
-    {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_test.png.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/btn_test.png"
-    },
-    {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-ldpi/ic_launcher.png"
     },
@@ -24,60 +16,40 @@
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/unchecked_icon.png"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/list_item.xml"
-    },
-    {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_refresh.png.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/refresh.png"
-    },
-    {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_bottom_bg.png.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/bottom_bg.png"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_right_arrow.png.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/right_arrow.png"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_navigation_bar.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/navigation_bar.xml"
-    },
-    {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_mainpage.xml.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/mainpage.xml"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_test_press.png.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/btn_test_press.png"
-    },
-    {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_thumb_pressed.png.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/seekbar_thumb_pressed.png"
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/res/layout/notification_template_big_media.xml"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_settings.xml.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/settings.xml"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi_button_bg.png.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-mdpi/button_bg.png"
-    },
-    {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_custom_checkbox.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/custom_checkbox.xml"
-    },
-    {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_seekbar_thumb.xml.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/seekbar_thumb.xml"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_settings.png.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/settings.png"
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/res/layout/notification_media_action.xml"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_table_row.xml.flat",
@@ -88,44 +60,40 @@
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/btn_back.png"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_test_report.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/test_report.xml"
-    },
-    {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-ldpi_meminfo.png.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-ldpi/meminfo.png"
-    },
-    {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-mdpi/ic_launcher.png"
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-mdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_thumb_normal.png.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/seekbar_thumb_normal.png"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_settings_pressed.png.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/settings_pressed.png"
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_mail_settings.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/mail_settings.xml"
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_left_arrow.png.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/left_arrow.png"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_test_button.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/test_button.xml"
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_save.png.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/btn_save.png"
-    },
-    {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_test_list.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/test_list.xml"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_button_bg.png.flat",
@@ -136,8 +104,16 @@
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/meminfo.png"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_test_list_item.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/test_list_item.xml"
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_actionbar_bg.png.flat",
@@ -148,35 +124,215 @@
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/close.png"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_about.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/about.xml"
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_checked_icon.png.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/checked_icon.png"
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_table_border.xml.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/table_border.xml"
     },
     {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_settings_button.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/settings_button.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_float_button.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/float_button.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_test.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/btn_test.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_bottom_bg.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/bottom_bg.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_navigation_bar.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/navigation_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_test_press.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/btn_test_press.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_seekbar_thumb_pressed.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi_button_bg.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-mdpi/button_bg.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_custom_checkbox.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/custom_checkbox.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_settings.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_test_report.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/test_report.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-ldpi_meminfo.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-ldpi/meminfo.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_settings_pressed.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/settings_pressed.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_mail_settings.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/mail_settings.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_test_button.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/test_button.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_test_list.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/test_list.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_test_list_item.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/test_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_about.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_checked_icon.png.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/checked_icon.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable/notification_bg_low.xml"
+    },
+    {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-mdpi_meminfo.png.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-mdpi/meminfo.png"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_custom_seekbar.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/custom_seekbar.xml"
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
         "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable-ldpi/icon.png"
     },
     {
-        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_settings_button.xml.flat",
-        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/settings_button.xml"
+        "merged": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/res/merged/debug/drawable_custom_seekbar.xml.flat",
+        "source": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/res/drawable/custom_seekbar.xml"
     }
 ]
