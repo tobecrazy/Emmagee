@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Dec 06 20:16:11 CST 2017
+#Wed Dec 06 21:13:00 CST 2017
 0.baseType=DIRECTORY
 0.base=/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex

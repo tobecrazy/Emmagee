@@ -17,7 +17,9 @@
 package com.netease.qa.emmagee.utils;
 
 import android.app.Application;
+import android.os.Environment;
 import android.view.WindowManager;
+import android.widget.Toast;
 
 import java.io.File;
 
@@ -50,10 +52,24 @@ public class MyApplication extends Application {
 
     private void initAppConfig() {
         // create directory of emmagee
-        File dir = new File(Settings.EMMAGEE_RESULT_DIR);
-        if (!dir.exists()) {
-            dir.mkdirs();
+        boolean isExternalStorage = false;
+        String status = Environment.getExternalStorageState();
+        if (status.equals(Environment.MEDIA_MOUNTED)) {
+            isExternalStorage = true;
         }
+        try {
+            File dir = new File(Settings.EMMAGEE_RESULT_DIR);
+            if (!dir.exists()) {
+                dir.mkdirs();
+                Toasty.success(getApplicationContext(), Settings.EMMAGEE_RESULT_DIR + " created", Toast.LENGTH_SHORT, true).show();
+            } else {
+                Toasty.warning(getApplicationContext(), Settings.EMMAGEE_RESULT_DIR + " is exists", Toast.LENGTH_SHORT, true).show();
+
+            }
+        } catch (Exception e) {
+            Toasty.error(getApplicationContext(), "Unable to Create " + Settings.EMMAGEE_RESULT_DIR, Toast.LENGTH_SHORT, true).show();
+        }
+
     }
 
 }
