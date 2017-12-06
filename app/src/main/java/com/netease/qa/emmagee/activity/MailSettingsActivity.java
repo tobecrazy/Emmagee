@@ -100,7 +100,7 @@ public class MailSettingsActivity extends Activity {
             @Override
             public void onClick(View v) {
                 sender = edtSender.getText().toString().trim();
-                if (!BLANK_STRING.equals(sender) && !checkMailFormat(sender)) {
+                if (sender.length() < 3 && !checkMailFormat(sender)) {
                     Toasty.error(MailSettingsActivity.this, getString(R.string.sender_mail_toast) + getString(R.string.format_incorrect_format), Toast.LENGTH_LONG, true).show();
                     return;
                 }
@@ -108,16 +108,22 @@ public class MailSettingsActivity extends Activity {
                 receivers = recipients.split("\\s+");
                 for (int i = 0; i < receivers.length; i++) {
                     if (!BLANK_STRING.equals(receivers[i]) && !checkMailFormat(receivers[i])) {
-
                         Toasty.error(MailSettingsActivity.this, getString(R.string.receiver_mail_toast) + "[" + receivers[i] + "]" + getString(R.string.format_incorrect_format), Toast.LENGTH_LONG, true).show();
-
                         return;
                     }
                 }
                 curPassword = edtPassword.getText().toString().trim();
+                if (curPassword.length() < 3) {
+                    Toasty.error(MailSettingsActivity.this, getString(R.string.receiver_mail_toast) + getString(R.string.password_mail_toast), Toast.LENGTH_LONG, true).show();
+                    return;
+                }
                 smtp = edtSmtp.getText().toString().trim();
+                if (smtp.length() < 2) {
+                    Toasty.error(MailSettingsActivity.this, getString(R.string.receiver_mail_toast) + getString(R.string.smpt_mail_toast), Toast.LENGTH_LONG, true).show();
+                    return;
+                }
                 if (checkMailConfig(sender, recipients, smtp, curPassword) == -1) {
-                    Toast.makeText(MailSettingsActivity.this, getString(R.string.info_incomplete_toast), Toast.LENGTH_LONG).show();
+                    Toasty.error(MailSettingsActivity.this, getString(R.string.info_incomplete_toast), Toast.LENGTH_LONG, true).show();
                     return;
                 }
                 SharedPreferences preferences = Settings.getDefaultSharedPreferences(getApplicationContext());

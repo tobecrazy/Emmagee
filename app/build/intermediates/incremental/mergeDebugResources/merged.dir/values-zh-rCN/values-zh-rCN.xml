@@ -59,6 +59,7 @@
     <string name="ok">确定</string>
     <string name="open_wifi">开启WIFI</string>
     <string name="password">密码:</string>
+    <string name="password_mail_toast">Invalid password</string>
     <string name="process_free_mem">应用/剩余内存:</string>
     <string name="process_name">应用名称</string>
     <string name="process_overall_cpu">应用/总体CPU:</string>
@@ -77,6 +78,7 @@
     <string name="sender">发件人:</string>
     <string name="sender_mail_toast">发件人邮箱:</string>
     <string name="setting">设置</string>
+    <string name="smpt_mail_toast">Invalid SMPT</string>
     <string name="smtp">SMTP服务器:</string>
     <string name="start_test">开始测试</string>
     <string name="start_time">启动时间:</string>
