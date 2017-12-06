@@ -91,6 +91,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/javaPrecompile" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/prebuild" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/shaders" />
@@ -115,11 +116,13 @@
     <orderEntry type="library" name="com.android.support:appcompat-v7-25.3.1" level="project" />
     <orderEntry type="library" name="com.android.support:support-v4-26.1.0" level="project" />
     <orderEntry type="library" name="android.arch.lifecycle:runtime-1.0.0" level="project" />
+    <orderEntry type="library" name="com.tencent.bugly:crashreport-2.6.6.1" level="project" />
     <orderEntry type="library" name="com.android.support:support-annotations:26.1.0@jar" level="project" />
     <orderEntry type="library" name="com.github.GrenderG:Toasty-1.2.5" level="project" />
     <orderEntry type="library" name="__local_aars__:/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/libs/activation.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.android.support:support-core-utils-26.1.0" level="project" />
     <orderEntry type="library" name="com.android.support:support-core-ui-26.1.0" level="project" />
     <orderEntry type="library" name="com.android.support:support-vector-drawable-25.3.1" level="project" />
+    <orderEntry type="library" name="com.tencent.bugly:nativecrashreport-3.3.1" level="project" />
   </component>
 </module>

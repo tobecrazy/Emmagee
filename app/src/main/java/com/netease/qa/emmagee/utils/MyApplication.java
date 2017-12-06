@@ -17,11 +17,19 @@
 package com.netease.qa.emmagee.utils;
 
 import android.app.Application;
+import android.content.Context;
 import android.os.Environment;
+import android.text.TextUtils;
 import android.view.WindowManager;
 import android.widget.Toast;
 
+import com.tencent.bugly.crashreport.CrashReport;
+import com.tencent.bugly.crashreport.CrashReport.UserStrategy;
+
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
 
 import es.dmoral.toasty.Toasty;
 
@@ -42,7 +50,47 @@ public class MyApplication extends Application {
     public void onCreate() {
         initAppConfig();
         initToastly();
+        initBugly();
         super.onCreate();
+    }
+
+    private void initBugly() {
+        Context context = getApplicationContext();
+        String packageName = context.getPackageName();
+        String processName = getProcessName(android.os.Process.myPid());
+        UserStrategy strategy = new UserStrategy(context);
+        strategy.setUploadProcess(processName == null || processName.equals(packageName));
+        CrashReport.initCrashReport(context, Constants.APP_ID, true, strategy);
+        CrashReport.enableBugly(true);
+        CrashReport.startCrashReport();
+    }
+
+    /**
+     * @param pid
+     * @return
+     * @author Young
+     */
+    private String getProcessName(int pid) {
+        BufferedReader reader = null;
+        try {
+            reader = new BufferedReader(new FileReader("/proc/" + pid + "/cmdline"));
+            String processName = reader.readLine();
+            if (!TextUtils.isEmpty(processName)) {
+                processName = processName.trim();
+            }
+            return processName;
+        } catch (Throwable throwable) {
+            throwable.printStackTrace();
+        } finally {
+            try {
+                if (reader != null) {
+                    reader.close();
+                }
+            } catch (IOException exception) {
+                exception.printStackTrace();
+            }
+        }
+        return null;
     }
 
     private void initToastly() {
