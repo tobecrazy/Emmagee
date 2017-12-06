@@ -627,14 +627,13 @@ public class EmmageeService extends Service {
             isSendSuccessfully = false;
         }
         if (isSendSuccessfully) {
-            Toast.makeText(this,
-                    getString(R.string.send_success_toast) + recipients,
-                    Toast.LENGTH_LONG).show();
+            Toasty.success(this, getString(R.string.send_success_toast), Toast.LENGTH_SHORT, true).show();
         } else {
-            Toast.makeText(
+
+            Toasty.error(
                     this,
                     getString(R.string.send_fail_toast)
-                            + EmmageeService.resultFilePath, Toast.LENGTH_LONG)
+                            + EmmageeService.resultFilePath, Toast.LENGTH_LONG, true)
                     .show();
         }
         super.onDestroy();
