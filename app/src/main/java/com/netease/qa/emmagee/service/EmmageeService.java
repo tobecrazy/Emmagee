@@ -74,6 +74,8 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Locale;
 
+import es.dmoral.toasty.Toasty;
+
 /**
  * Service running in background
  *
@@ -405,9 +407,7 @@ public class EmmageeService extends Service {
                         btnWifi.setText(R.string.open_wifi);
                     }
                 } catch (Exception e) {
-                    Toast.makeText(viFloatingWindow.getContext(),
-                            getString(R.string.wifi_fail_toast),
-                            Toast.LENGTH_LONG).show();
+                    Toasty.error(viFloatingWindow.getContext(), getString(R.string.wifi_fail_toast), Toast.LENGTH_SHORT, true).show();
                     Log.e(LOG_TAG, e.toString());
                 }
             }
@@ -463,9 +463,7 @@ public class EmmageeService extends Service {
                     }
                     startTime = line.substring(line.lastIndexOf("+") + 1,
                             line.lastIndexOf("ms") + 2);
-                    Toast.makeText(EmmageeService.this,
-                            getString(R.string.start_time) + startTime,
-                            Toast.LENGTH_LONG).show();
+                    Toasty.info(EmmageeService.this, getString(R.string.start_time) + startTime, Toast.LENGTH_SHORT, true).show();
                     isGetStartTime = false;
                     break;
                 }

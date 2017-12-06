@@ -16,36 +16,44 @@
  */
 package com.netease.qa.emmagee.utils;
 
-import java.io.File;
-
 import android.app.Application;
 import android.view.WindowManager;
 
+import java.io.File;
+
+import es.dmoral.toasty.Toasty;
+
 /**
  * my application class
- * 
+ *
  * @author andrewleo
  */
 public class MyApplication extends Application {
 
-	private WindowManager.LayoutParams wmParams = new WindowManager.LayoutParams();
+    private WindowManager.LayoutParams wmParams = new WindowManager.LayoutParams();
 
-	public WindowManager.LayoutParams getMywmParams() {
-		return wmParams;
-	}
+    public WindowManager.LayoutParams getMywmParams() {
+        return wmParams;
+    }
 
-	@Override
-	public void onCreate() {
-		initAppConfig();
-		super.onCreate();
-	}
-	
-	private void initAppConfig() {
-		// create directory of emmagee
-		File dir = new File(Settings.EMMAGEE_RESULT_DIR);
-		if (!dir.exists()) {
-			dir.mkdirs();
-		}
-	}
-	
+    @Override
+    public void onCreate() {
+        initAppConfig();
+        initToastly();
+        super.onCreate();
+    }
+
+    private void initToastly() {
+        Toasty.Config.getInstance().apply();
+
+    }
+
+    private void initAppConfig() {
+        // create directory of emmagee
+        File dir = new File(Settings.EMMAGEE_RESULT_DIR);
+        if (!dir.exists()) {
+            dir.mkdirs();
+        }
+    }
+
 }

@@ -16,12 +16,6 @@
  */
 package com.netease.qa.emmagee.activity;
 
-import java.io.DataOutputStream;
-
-import com.netease.qa.emmagee.R;
-import com.netease.qa.emmagee.utils.Settings;
-import com.netease.qa.emmagee.utils.WakeLockHelper;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -38,6 +32,14 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.netease.qa.emmagee.R;
+import com.netease.qa.emmagee.utils.Settings;
+import com.netease.qa.emmagee.utils.WakeLockHelper;
+
+import java.io.DataOutputStream;
+
+import es.dmoral.toasty.Toasty;
 
 /**
  * Setting Page of Emmagee
@@ -176,7 +178,7 @@ public class SettingsActivity extends Activity {
 						preferences.edit().putBoolean(Settings.KEY_ROOT, !isChecked).commit();
 					} else {
 						// if root failed, tell user to check if phone is rooted
-						Toast.makeText(getBaseContext(), getString(R.string.root_failed_notification), Toast.LENGTH_LONG).show();
+						Toasty.error(getBaseContext(), getString(R.string.root_failed_notification), Toast.LENGTH_SHORT, true).show();
 					}
 				}
 

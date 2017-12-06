@@ -4,7 +4,7 @@
             "outputFile": "/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/res/values-port/values-port.xml",
+                    "source": "/Users/young/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/65d4808d0aab82ab393ec5bbb06d319a/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

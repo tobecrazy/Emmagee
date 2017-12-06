@@ -1,4 +1,0 @@
-#Sun Nov 26 17:48:05 CST 2017
-base.0=/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/transforms/dexMerger/debug/9
-path.0=classes.dex
-renamed.0=classes.dex

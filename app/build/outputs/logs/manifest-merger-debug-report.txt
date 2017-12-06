@@ -4,7 +4,11 @@ ADDED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/Android
 INJECTED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml:2:1-58:12
 INJECTED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml:2:1-58:12
 INJECTED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml:2:1-58:12
+MERGED from [com.github.GrenderG:Toasty:1.2.5] /Users/young/.gradle/caches/transforms-1/files-1.1/Toasty-1.2.5.aar/602a2e515166e983e35cd9e839f9449e/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/65d4808d0aab82ab393ec5bbb06d319a/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-v4:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e3c83256a45d55afa3d1901a6d01f060/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/19af56ce507687d008b3bc4a89db02bc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b9af895e612ec0c5b3361be535ab3f2d/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/87360d2af238a5da53608d0bfed9d7b2/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f370196782035efd2d561972b720d32e/AndroidManifest.xml:17:1-31:12
@@ -72,8 +76,16 @@ uses-sdk
 ADDED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml:18:5-44
 INJECTED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml:18:5-44
 INJECTED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml:18:5-44
+MERGED from [com.github.GrenderG:Toasty:1.2.5] /Users/young/.gradle/caches/transforms-1/files-1.1/Toasty-1.2.5.aar/602a2e515166e983e35cd9e839f9449e/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.GrenderG:Toasty:1.2.5] /Users/young/.gradle/caches/transforms-1/files-1.1/Toasty-1.2.5.aar/602a2e515166e983e35cd9e839f9449e/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/65d4808d0aab82ab393ec5bbb06d319a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/65d4808d0aab82ab393ec5bbb06d319a/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e3c83256a45d55afa3d1901a6d01f060/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e3c83256a45d55afa3d1901a6d01f060/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/19af56ce507687d008b3bc4a89db02bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/19af56ce507687d008b3bc4a89db02bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b9af895e612ec0c5b3361be535ab3f2d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b9af895e612ec0c5b3361be535ab3f2d/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/87360d2af238a5da53608d0bfed9d7b2/AndroidManifest.xml:21:5-23:60
@@ -89,7 +101,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/young/.gradle/caches/t
 INJECTED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml:18:5-44
 INJECTED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml:18:5-44
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e3c83256a45d55afa3d1901a6d01f060/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/65d4808d0aab82ab393ec5bbb06d319a/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml
 		ADDED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml:18:5-44
@@ -100,8 +112,14 @@ INJECTED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/Andr
 		INJECTED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml
 application
 ADDED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml:20:5-55:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/65d4808d0aab82ab393ec5bbb06d319a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/65d4808d0aab82ab393ec5bbb06d319a/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e3c83256a45d55afa3d1901a6d01f060/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e3c83256a45d55afa3d1901a6d01f060/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/19af56ce507687d008b3bc4a89db02bc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/19af56ce507687d008b3bc4a89db02bc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b9af895e612ec0c5b3361be535ab3f2d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b9af895e612ec0c5b3361be535ab3f2d/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/87360d2af238a5da53608d0bfed9d7b2/AndroidManifest.xml:25:5-29:19
@@ -181,7 +199,11 @@ ADDED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/Android
 	android:name
 		ADDED from /Volumes/Transcend/AndroidStudioProjects/Emmagee/app/src/main/AndroidManifest.xml:54:18-78
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e3c83256a45d55afa3d1901a6d01f060/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/65d4808d0aab82ab393ec5bbb06d319a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/19af56ce507687d008b3bc4a89db02bc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/19af56ce507687d008b3bc4a89db02bc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b9af895e612ec0c5b3361be535ab3f2d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b9af895e612ec0c5b3361be535ab3f2d/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/b8c8d4ab592bf5c0c9ab37bc321e0957/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-fragment:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/87360d2af238a5da53608d0bfed9d7b2/AndroidManifest.xml:26:9-28:38
@@ -193,9 +215,9 @@ MERGED from [com.android.support:support-core-ui:26.1.0] /Users/young/.gradle/ca
 MERGED from [com.android.support:support-compat:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/548c735a9be6b09433891db422754813/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:support-v4:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e3c83256a45d55afa3d1901a6d01f060/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/65d4808d0aab82ab393ec5bbb06d319a/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:support-v4:26.1.0] /Users/young/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e3c83256a45d55afa3d1901a6d01f060/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/young/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/65d4808d0aab82ab393ec5bbb06d319a/AndroidManifest.xml:26:9-47
 meta-data#android.arch.lifecycle.VERSION
 ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/young/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9e7273cd290ac30993a6c327569205c0/AndroidManifest.xml:25:9-27:47
 	android:value

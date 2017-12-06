@@ -16,16 +16,6 @@
  */
 package com.netease.qa.emmagee.activity;
 
-import java.io.IOException;
-import java.util.List;
-
-import com.netease.qa.emmagee.R;
-import com.netease.qa.emmagee.service.EmmageeService;
-import com.netease.qa.emmagee.utils.ProcessInfo;
-import com.netease.qa.emmagee.utils.Programe;
-import com.netease.qa.emmagee.utils.Settings;
-import com.netease.qa.emmagee.utils.WakeLockHelper;
-
 import android.app.Activity;
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -51,6 +41,17 @@ import android.widget.ListView;
 import android.widget.RadioButton;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.netease.qa.emmagee.R;
+import com.netease.qa.emmagee.service.EmmageeService;
+import com.netease.qa.emmagee.utils.ProcessInfo;
+import com.netease.qa.emmagee.utils.Programe;
+import com.netease.qa.emmagee.utils.Settings;
+
+import java.io.IOException;
+import java.util.List;
+
+import es.dmoral.toasty.Toasty;
 
 /**
  * Main Page of Emmagee
@@ -112,7 +113,7 @@ public class MainPageActivity extends Activity {
 								startActivity = intent.resolveActivity(getPackageManager()).getShortClassName();
 								startActivity(intent);
 							} catch (Exception e) {
-								Toast.makeText(MainPageActivity.this, getString(R.string.can_not_start_app_toast), Toast.LENGTH_LONG).show();
+								Toasty.warning(MainPageActivity.this, getString(R.string.can_not_start_app_toast), Toast.LENGTH_SHORT, true).show();
 								return;
 							}
 							waitForAppStart(packageName);
@@ -125,16 +126,15 @@ public class MainPageActivity extends Activity {
 							isServiceStop = false;
 							btnTest.setText(getString(R.string.stop_test));
 						} else {
-							Toast.makeText(MainPageActivity.this, getString(R.string.choose_app_toast), Toast.LENGTH_LONG).show();
+							Toasty.info(MainPageActivity.this, getString(R.string.choose_app_toast), Toast.LENGTH_LONG, true).show();
 						}
 					} else {
 						btnTest.setText(getString(R.string.start_test));
-						Toast.makeText(MainPageActivity.this, getString(R.string.test_result_file_toast) + EmmageeService.resultFilePath,
-								Toast.LENGTH_LONG).show();
+						Toasty.info(MainPageActivity.this, getString(R.string.test_result_file_toast) + EmmageeService.resultFilePath, Toast.LENGTH_LONG, true).show();
 						stopService(monitorService);
 					}
 				} else {
-					Toast.makeText(MainPageActivity.this, getString(R.string.nougat_warning),Toast.LENGTH_LONG).show();
+					Toasty.error(MainPageActivity.this, getString(R.string.nougat_warning), Toast.LENGTH_LONG, true).show();
 				}
 			}
 		});
@@ -162,7 +162,7 @@ public class MainPageActivity extends Activity {
 		ivGoBack.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View arg0) {
-				Toast.makeText(MainPageActivity.this, R.string.update_list, Toast.LENGTH_SHORT).show();
+				Toasty.success(MainPageActivity.this,  getString(R.string.update_list), Toast.LENGTH_LONG, true).show();
 				la.swapItems(processInfo.getAllPackages(getBaseContext()));
 			}
 		});
@@ -186,7 +186,7 @@ public class MainPageActivity extends Activity {
 		SharedPreferences preferences = Settings.getDefaultSharedPreferences(this);
 		boolean wakeLock = preferences.getBoolean(Settings.KEY_WACK_LOCK, false);
 		if (wakeLock) {
-			Toast.makeText(this, R.string.wake_lock_on_toast, Toast.LENGTH_LONG).show();
+			Toasty.info(this,  getString( R.string.wake_lock_on_toast), Toast.LENGTH_SHORT, true).show();
 			Settings.getDefaultWakeLock(this).acquireFullWakeLock();
 		}
 	}
@@ -254,7 +254,7 @@ public class MainPageActivity extends Activity {
 	public boolean onKeyDown(int keyCode, KeyEvent event) {
 		if (keyCode == KeyEvent.KEYCODE_BACK) {
 			if ((System.currentTimeMillis() - mExitTime) > 2000) {
-				Toast.makeText(this, R.string.quite_alert, Toast.LENGTH_SHORT).show();
+				Toasty.warning(this, getString(R.string.quite_alert), Toast.LENGTH_SHORT, true).show();
 				mExitTime = System.currentTimeMillis();
 			} else {
 				if (monitorService != null) {
