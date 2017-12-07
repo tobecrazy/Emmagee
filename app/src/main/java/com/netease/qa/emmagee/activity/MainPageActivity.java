@@ -47,7 +47,6 @@ import com.netease.qa.emmagee.service.EmmageeService;
 import com.netease.qa.emmagee.utils.ProcessInfo;
 import com.netease.qa.emmagee.utils.Programe;
 import com.netease.qa.emmagee.utils.Settings;
-import com.tencent.bugly.crashreport.CrashReport;
 
 import java.io.IOException;
 import java.util.List;
@@ -211,7 +210,6 @@ public class MainPageActivity extends Activity {
 	@Override
 	protected void onStart() {
 		Log.d(LOG_TAG, "onStart");
-		CrashReport.testJavaCrash();
 		super.onStart();
 	}
 
