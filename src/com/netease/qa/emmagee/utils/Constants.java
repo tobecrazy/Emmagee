@@ -1,4 +1,4 @@
-package com.netease.qa.emmagee.utils;
+package com.netease.qa.emmageepro.utils;
 
 /**
  * Constant Class

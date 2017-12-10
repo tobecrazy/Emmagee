@@ -14,14 +14,14 @@
  *  limitations under the License.
  *
  */
-package com.netease.qa.emmagee.activity;
+package com.netease.qa.emmageepro.activity;
 
 import java.io.File;
 import java.io.IOException;
 
 import org.apache.commons.io.FileUtils;
 
-import com.netease.qa.emmagee.R;
+import com.netease.qa.emmageepro.R;
 
 import android.app.Activity;
 import android.content.Intent;

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Emmagee</string>
+    <string name="app_name">EmmageePro</string>
     <string name="setting">设置</string>
     <string name="exit">退出</string>
 
@@ -65,7 +65,7 @@
     <string name="cancel">取消</string>
     <string name="confirm">确定退出程序？</string>
     <string name="quite_alert">再点击一次退出应用</string>
-    
+
     <string name="about">关于</string>
     <string name="mail_settings">邮件配置</string>
     <string name="version_title">版本 </string>
@@ -73,26 +73,28 @@
         主要用于监控单个App的CPU，内存，流量，电量，电流，帧率以及整体性能状态，
         同时支持自定义的监控频率以及性能数据的实时显示.</string>
     <string name="about_team">开发团队：网易(杭州)质量保障部</string>
-    <string name="about_project_address">项目地址：https://github.com/NetEase/Emmagee</string>
-    
+    <string name="about_project_address">项目地址：https://github.com/NetEase/Emmagee
+    项目地址：https://github.com/tobecrazy/Emmagee</string>
+
     <string name="top_activity">栈顶Activity名称</string>
     <string name="csv_encoding">GBK</string>
-    
+
     <string name="dalvik_heap">Dalvik heap alloc/size(KB)</string>
     <string name="native_heap">Native heap alloc/size(KB)</string>
-    
+
     <string name="collect_heap">统计Heap数据</string>
     <string name="root_notification">(需要root)</string>
-    
+
     <string name="root_failed_notification">无法获取root权限，请确认手机是否已root</string>
     <string name="stop_when_exited">应用退出后停止监听</string>
-    
+
     <string name="update_list">列表更新成功</string>
     <string name="nougat_warning">由于Google的限制，Emmagee无法支持7.0及以上版本</string>
-    
+
     <string name="wake_lock">屏幕保持常亮</string>
     <string name="wake_lock_on_toast">WakeLock已开启，屏幕会保持常亮</string>
     <string name="test_report">测试报告</string>
-    <string name="password_mail_toast">Invalid password</string>
-    <string name="smpt_mail_toast">Invalid SMPT</string>
+    <string name="password_mail_toast">非法密码</string>
+    <string name="smpt_mail_toast">非法SMPT</string>
+    <string name="check_upgrade">检查更新</string>
 </resources>

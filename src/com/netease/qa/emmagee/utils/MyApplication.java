@@ -14,7 +14,7 @@
  *  limitations under the License.
  *
  */
-package com.netease.qa.emmagee.utils;
+package com.netease.qa.emmageepro.utils;
 
 import java.io.File;
 

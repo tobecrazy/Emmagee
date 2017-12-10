@@ -18,7 +18,8 @@
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
@@ -39,7 +40,7 @@
             android:name=".activity.TestReportActivity"
             android:screenOrientation="portrait" />
 
-        <service android:name="com.netease.qa.emmagee.service.EmmageeService" />
+        <service android:name="com.netease.qa.emmageepro.service.EmmageeService" />
     </application>
 
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />

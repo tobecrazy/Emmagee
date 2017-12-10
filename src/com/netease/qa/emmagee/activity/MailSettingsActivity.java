@@ -14,14 +14,14 @@
  *  limitations under the License.
  *
  */
-package com.netease.qa.emmagee.activity;
+package com.netease.qa.emmageepro.activity;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.netease.qa.emmagee.R;
-import com.netease.qa.emmagee.utils.EncryptData;
-import com.netease.qa.emmagee.utils.Settings;
+import com.netease.qa.emmageepro.R;
+import com.netease.qa.emmageepro.utils.EncryptData;
+import com.netease.qa.emmageepro.utils.Settings;
 
 import android.app.Activity;
 import android.content.Intent;

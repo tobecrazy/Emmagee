@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/young/.gradle/caches/transforms-1/files-1.1/crashreport_upgrade-1.3.1.aar/390f2a1b6db7b8527b14039e776710c7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="115e02104d60c8ea161a57cfcb844f235575a197">
+        <dex dex="/Volumes/Transcend/AndroidStudioProjects/Emmagee/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+
+</items>

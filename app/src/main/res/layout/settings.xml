@@ -3,17 +3,17 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:background="@color/light_purple"
-    android:orientation="vertical" >
+    android:orientation="vertical">
 
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal" >
+        android:orientation="horizontal">
 
         <include
+            layout="@layout/navigation_bar"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            layout="@layout/navigation_bar" />
+            android:layout_height="wrap_content" />
     </LinearLayout>
 
     <LinearLayout
@@ -25,21 +25,21 @@
         android:paddingBottom="@dimen/activity_vertical_margin"
         android:paddingLeft="@dimen/activity_horizontal_margin"
         android:paddingRight="@dimen/activity_horizontal_margin"
-        android:paddingTop="@dimen/activity_vertical_margin" >
+        android:paddingTop="@dimen/activity_vertical_margin">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/textview_horizontal_margin"
             android:background="@color/white"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_vertical"
                 android:orientation="horizontal"
-                android:padding="@dimen/layout_vertical_margin_small" >
+                android:padding="@dimen/layout_vertical_margin_small">
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -51,7 +51,7 @@
                 <LinearLayout
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
-                    android:gravity="right" >
+                    android:gravity="right">
 
                     <TextView
                         android:id="@+id/time"
@@ -59,8 +59,7 @@
                         android:layout_height="wrap_content"
                         android:gravity="center_vertical|right"
                         android:textColor="@color/black"
-                        android:textSize="@dimen/text_size" >
-                    </TextView>
+                        android:textSize="@dimen/text_size"></TextView>
                 </LinearLayout>
             </LinearLayout>
 
@@ -88,7 +87,7 @@
                 android:id="@+id/floating_item"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:padding="@dimen/layout_vertical_margin_small" >
+                android:padding="@dimen/layout_vertical_margin_small">
 
                 <TextView
                     android:id="@+id/floating_Window"
@@ -104,10 +103,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_alignParentRight="true"
-                    android:clickable="false"
                     android:background="@drawable/custom_checkbox"
                     android:button="@null"
                     android:checked="true"
+                    android:clickable="false"
                     android:paddingLeft="@dimen/image_padding"
                     android:paddingRight="@dimen/image_padding" />
             </RelativeLayout>
@@ -118,7 +117,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center_vertical"
                 android:orientation="horizontal"
-                android:padding="@dimen/layout_vertical_margin_small" >
+                android:padding="@dimen/layout_vertical_margin_small">
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -132,21 +131,21 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_alignParentRight="true"
-                    android:clickable="false"
                     android:background="@drawable/custom_checkbox"
                     android:button="@null"
                     android:checked="true"
+                    android:clickable="false"
                     android:paddingLeft="@dimen/image_padding"
                     android:paddingRight="@dimen/image_padding" />
             </RelativeLayout>
-            
+
             <RelativeLayout
                 android:id="@+id/wake_lock_item"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_vertical"
                 android:orientation="horizontal"
-                android:padding="@dimen/layout_vertical_margin_small" >
+                android:padding="@dimen/layout_vertical_margin_small">
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -160,10 +159,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_alignParentRight="true"
-                    android:clickable="false"
                     android:background="@drawable/custom_checkbox"
                     android:button="@null"
                     android:checked="false"
+                    android:clickable="false"
                     android:paddingLeft="@dimen/image_padding"
                     android:paddingRight="@dimen/image_padding" />
             </RelativeLayout>
@@ -172,7 +171,7 @@
                 android:id="@+id/heap_item"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:padding="@dimen/layout_vertical_margin_small" >
+                android:padding="@dimen/layout_vertical_margin_small">
 
                 <TextView
                     android:id="@+id/collect_heap"
@@ -192,17 +191,17 @@
                 <LinearLayout
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
-                    android:gravity="right" >
+                    android:gravity="right">
 
                     <CheckBox
                         android:id="@+id/is_root"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="right"
-                        android:clickable="false"
                         android:background="@drawable/custom_checkbox"
                         android:button="@null"
                         android:checked="false"
+                        android:clickable="false"
                         android:gravity="right"
                         android:paddingLeft="@dimen/image_padding"
                         android:paddingRight="@dimen/image_padding" />
@@ -215,13 +214,14 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/textview_horizontal_margin"
             android:background="@color/white"
-            android:orientation="vertical" >
-			<LinearLayout
+            android:orientation="vertical">
+
+            <LinearLayout
                 android:id="@+id/test_report"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_vertical"
-                android:padding="@dimen/layout_vertical_margin_small" >
+                android:padding="@dimen/layout_vertical_margin_small">
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -233,7 +233,7 @@
                 <LinearLayout
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
-                    android:gravity="right" >
+                    android:gravity="right">
 
                     <ImageView
                         android:layout_width="wrap_content"
@@ -247,13 +247,13 @@
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/line_height"
                 android:background="@color/light_gray" />
-            
+
             <LinearLayout
                 android:id="@+id/mail_settings"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_vertical"
-                android:padding="@dimen/layout_vertical_margin_small" >
+                android:padding="@dimen/layout_vertical_margin_small">
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -265,7 +265,7 @@
                 <LinearLayout
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
-                    android:gravity="right" >
+                    android:gravity="right">
 
                     <ImageView
                         android:layout_width="wrap_content"
@@ -285,7 +285,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_vertical"
-                android:padding="@dimen/layout_vertical_margin_small" >
+                android:padding="@dimen/layout_vertical_margin_small">
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -298,7 +298,7 @@
                 <LinearLayout
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
-                    android:gravity="right" >
+                    android:gravity="right">
 
                     <ImageView
                         android:layout_width="wrap_content"
@@ -308,6 +308,19 @@
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
+
+        <Button
+            android:id="@+id/setting_checkUpdate"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="@dimen/layout_marginBottom_test"
+            android:layout_marginLeft="@dimen/layout_marginLeft_test"
+            android:layout_marginRight="@dimen/layout_marginRight_test"
+            android:layout_marginTop="@dimen/layout_marginTop_test"
+            android:background="@drawable/test_button"
+            android:text="@string/check_upgrade"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_test" />
     </LinearLayout>
 
 </LinearLayout>

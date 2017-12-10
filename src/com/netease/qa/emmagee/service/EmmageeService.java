@@ -14,7 +14,7 @@
  *  limitations under the License.
  *
  */
-package com.netease.qa.emmagee.service;
+package com.netease.qa.emmageepro.service;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -32,19 +32,19 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Locale;
 
-import com.netease.qa.emmagee.R;
-import com.netease.qa.emmagee.activity.MainPageActivity;
-import com.netease.qa.emmagee.utils.Constants;
-import com.netease.qa.emmagee.utils.CpuInfo;
-import com.netease.qa.emmagee.utils.CurrentInfo;
-import com.netease.qa.emmagee.utils.EncryptData;
-import com.netease.qa.emmagee.utils.FpsInfo;
-import com.netease.qa.emmagee.utils.MailSender;
-import com.netease.qa.emmagee.utils.MemoryInfo;
-import com.netease.qa.emmagee.utils.MyApplication;
-import com.netease.qa.emmagee.utils.ProcessInfo;
-import com.netease.qa.emmagee.utils.Programe;
-import com.netease.qa.emmagee.utils.Settings;
+import com.netease.qa.emmageepro.R;
+import com.netease.qa.emmageepro.activity.MainPageActivity;
+import com.netease.qa.emmageepro.utils.Constants;
+import com.netease.qa.emmageepro.utils.CpuInfo;
+import com.netease.qa.emmageepro.utils.CurrentInfo;
+import com.netease.qa.emmageepro.utils.EncryptData;
+import com.netease.qa.emmageepro.utils.FpsInfo;
+import com.netease.qa.emmageepro.utils.MailSender;
+import com.netease.qa.emmageepro.utils.MemoryInfo;
+import com.netease.qa.emmageepro.utils.MyApplication;
+import com.netease.qa.emmageepro.utils.ProcessInfo;
+import com.netease.qa.emmageepro.utils.Programe;
+import com.netease.qa.emmageepro.utils.Settings;
 
 import android.app.Activity;
 import android.app.PendingIntent;

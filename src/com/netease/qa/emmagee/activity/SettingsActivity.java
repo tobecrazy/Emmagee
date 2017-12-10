@@ -14,13 +14,13 @@
  *  limitations under the License.
  *
  */
-package com.netease.qa.emmagee.activity;
+package com.netease.qa.emmageepro.activity;
 
 import java.io.DataOutputStream;
 
-import com.netease.qa.emmagee.R;
-import com.netease.qa.emmagee.utils.Settings;
-import com.netease.qa.emmagee.utils.WakeLockHelper;
+import com.netease.qa.emmageepro.R;
+import com.netease.qa.emmageepro.utils.Settings;
+import com.netease.qa.emmageepro.utils.WakeLockHelper;
 
 import android.app.Activity;
 import android.content.Intent;

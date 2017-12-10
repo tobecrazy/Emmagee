@@ -14,9 +14,9 @@
  *  limitations under the License.
  *
  */
-package com.netease.qa.emmagee.activity;
+package com.netease.qa.emmageepro.activity;
 
-import com.netease.qa.emmagee.R;
+import com.netease.qa.emmageepro.R;
 
 import android.app.Activity;
 import android.content.pm.PackageInfo;
