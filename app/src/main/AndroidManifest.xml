@@ -16,10 +16,19 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.GET_TASKS" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.BATTERY_STATS" />
+    <uses-permission
+        android:name="android.permission.PACKAGE_USAGE_STATS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission
+        android:name="android.permission.DUMP"
+        tools:ignore="ProtectedPermissions" />
 
-    <uses-sdk
-        android:minSdkVersion="16"
-        tools:ignore="GradleOverrides" />
+    <!--<uses-sdk-->
+    <!--android:minSdkVersion="16"-->
+    <!--tools:ignore="GradleOverrides" />-->
 
     <application
         android:name="com.netease.qa.emmageepro.utils.MyApplication"
